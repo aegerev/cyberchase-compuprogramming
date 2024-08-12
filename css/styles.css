@@ -57,8 +57,6 @@ h2, h3 {
     color: #FF0000;
 }
 
-
-
 .container {
 	background-color: #ffffff;
 	padding: 1.5rem;
@@ -155,6 +153,8 @@ footer {
     padding: 20px; 
     font-size: 1em;
 }
+
+
 
 #contact {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);

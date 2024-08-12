@@ -31,8 +31,7 @@ I just hope that someone from PBS KIDS would notice what I'm doing...!
   * Arrays
   * Loops
 
-Deployed: 
+Deployed: https://aegerev.github.io/cyberchase-compuprogramming/
 GitHub repo: https://github.com/aegerev/cyberchase-compuprogramming
 
 (c) 2024 Alexander Egerev. All Rights Reserved.
-ONE PIECE, Power Fruits, Straw Hat Pirates, and affiliated characters and items TM and (c)1997, 1999 Eiichiro Oda/Shueisha, Toei Animation. All Rights Reserved.

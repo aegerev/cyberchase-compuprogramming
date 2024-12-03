@@ -3,7 +3,7 @@
 ## The Cyberchase Activity Center
 I'll admit it: Cyberchase is THE SHOW where kids can learn math. Even though it's produced by CRAP, the math content is... I don't know how to call it. 
 
-Since I am a fan of PBS KIDS (yes, Y12 is the "New PBS KIDS"), I just had to do something to bring back the PBS KIDS of old. What better way than with a Cyberchase Math Activity site?
+Since I am a fan of PBS KIDS (yes, NET is the "New PBS KIDS"), I just had to do something to bring back the PBS KIDS of old. What better way than with a Cyberchase Math Activity site?
 
 ## Sections
 There are a total of 3 sections:
@@ -31,7 +31,7 @@ I just hope that someone from PBS KIDS would notice what I'm doing...!
   * Arrays
   * Loops
 
-Deployed: https://aegerev.github.io/cyberchase-compuprogramming/
+Deployed: https://aegerev.github.io/cyberchase-compuprogramming/ <br/>
 GitHub repo: https://github.com/aegerev/cyberchase-compuprogramming
 
 (c) 2024 Alexander Egerev. All Rights Reserved.

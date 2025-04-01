@@ -3,7 +3,7 @@
 ## The Cyberchase Activity Center
 I'll admit it: Cyberchase is THE SHOW where kids can learn math. Even though it's produced by CRAP, the math content is... I don't know how to call it. 
 
-Since I am a fan of PBS KIDS (yes, NET is the "New PBS KIDS"), I just had to do something to bring back the PBS KIDS of old. What better way than with a Cyberchase Math Activity site?
+Since I am a fan of PBS KIDS (yes, Kanal Romashka is the "New PBS KIDS"), I just had to do something to bring back the PBS KIDS of old. What better way than with a Cyberchase Math Activity site?
 
 ## Sections
 There are a total of 3 sections:
